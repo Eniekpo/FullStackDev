@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mywasmapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee3566b0cb4dd913260806c94a93fd47f2f50643")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mywasmapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mywasmapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

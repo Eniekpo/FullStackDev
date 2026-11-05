@@ -2339,26 +2339,26 @@
       "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.14",
       "Microsoft.AspNetCore.Components.WebAssembly >= 10.0.14",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 10.0.14",
-      "Microsoft.AspNetCore.SignalR.Protocols.json >= 10.0.14",
+      "Microsoft.AspNetCore.SignalR.Protocols.Json >= 10.0.14",
       "Microsoft.NET.ILLink.Tasks >= 10.0.14",
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 10.0.14",
       "Newtonsoft.Json >= 13.0.4"
     ]
   },
   "packageFolders": {
-    "/Users/yoletech/.nuget/packages/": {}
+    "C:\\Users\\RICHARDSON\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yoletech/Desktop/FullStackDev/Mywasmapp/Mywasmapp.csproj",
+      "projectUniqueName": "C:\\Users\\RICHARDSON\\PROJECTS\\FullStackDev\\Mywasmapp\\Mywasmapp.csproj",
       "projectName": "Mywasmapp",
-      "projectPath": "/Users/yoletech/Desktop/FullStackDev/Mywasmapp/Mywasmapp.csproj",
-      "packagesPath": "/Users/yoletech/.nuget/packages/",
-      "outputPath": "/Users/yoletech/Desktop/FullStackDev/Mywasmapp/obj/",
+      "projectPath": "C:\\Users\\RICHARDSON\\PROJECTS\\FullStackDev\\Mywasmapp\\Mywasmapp.csproj",
+      "packagesPath": "C:\\Users\\RICHARDSON\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RICHARDSON\\PROJECTS\\FullStackDev\\Mywasmapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/yoletech/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\RICHARDSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -2405,7 +2405,7 @@
             "target": "Package",
             "version": "[10.0.14, )"
           },
-          "Microsoft.AspNetCore.SignalR.Protocols.json": {
+          "Microsoft.AspNetCore.SignalR.Protocols.Json": {
             "target": "Package",
             "version": "[10.0.14, )"
           },
@@ -2448,7 +2448,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
