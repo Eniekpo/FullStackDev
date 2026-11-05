@@ -170,3 +170,4 @@ C:/Users/RICHARDSON/PROJECTS/FullStackDev/Myblazor/obj/Debug/net10.0/ref/Myblazo
 /Users/yoletech/Desktop/FullStackDev/Myblazor/obj/Debug/net10.0/Myblazor.pdb
 /Users/yoletech/Desktop/FullStackDev/Myblazor/obj/Debug/net10.0/Myblazor.genruntimeconfig.cache
 /Users/yoletech/Desktop/FullStackDev/Myblazor/obj/Debug/net10.0/ref/Myblazor.dll
+/Users/yoletech/Desktop/FullStackDev/Myblazor/obj/Debug/net10.0/compressed/k32cje0mjq-{0}-lxevc5ftky-lxevc5ftky.gz

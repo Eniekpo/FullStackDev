@@ -1,0 +1,32 @@
+/* form-fixes.css – basic styling for the default Blazor template form */
+
+/* Ensure all inputs, selects, and textareas use the full container width */
+input.form-control,
+select.form-control,
+textarea.form-control {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Add vertical spacing between form rows */
+.form-group {
+    margin-bottom: 1rem;
+}
+
+/* Align labels and controls nicely on larger screens */
+@media (min-width: 768px) {
+    .form-horizontal .form-group {
+        display: flex;
+        align-items: center;
+    }
+
+    .form-horizontal .form-group > label {
+        flex: 0 0 150px;   /* fixed label width */
+        margin-bottom: 0;
+    }
+
+    .form-horizontal .form-group > .col {
+        flex: 1;
+    }
+}
+
