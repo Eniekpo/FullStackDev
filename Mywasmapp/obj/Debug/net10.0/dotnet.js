@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "Mywasmapp",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-IQboG2v4o4KZjpPBVkHMPZQmsEbsCxZiJLcNvpG4uYs=",
+    "hash": "sha256-gGS0x/EX5s8FLyqIomasLUa7QAjwKrUFUVSxN7C8vK0=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.bjoj0wmylw.js"
@@ -89,9 +89,27 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
         "cache": "force-cache"
       },
       {
+        "virtualPath": "Microsoft.AspNetCore.Connections.Abstractions.wasm",
+        "name": "Microsoft.AspNetCore.Connections.Abstractions.ah3id550v9.wasm",
+        "hash": "sha256-HpPt430D8kMDCRqdRrvQHiqBJubhb3dc3d0UvGajYek=",
+        "cache": "force-cache"
+      },
+      {
         "virtualPath": "Microsoft.AspNetCore.Metadata.wasm",
         "name": "Microsoft.AspNetCore.Metadata.pnc6k04r02.wasm",
         "hash": "sha256-lRkKPpmhZ4Yaf0JEm5qaeBKA5gLoJvFGgUusyPa2mfc=",
+        "cache": "force-cache"
+      },
+      {
+        "virtualPath": "Microsoft.AspNetCore.SignalR.Common.wasm",
+        "name": "Microsoft.AspNetCore.SignalR.Common.6so2y954sp.wasm",
+        "hash": "sha256-9l99XDA1iNBcGTdjubYB37fVlY3k8Z/z2TkCZMs/eF4=",
+        "cache": "force-cache"
+      },
+      {
+        "virtualPath": "Microsoft.AspNetCore.SignalR.Protocols.Json.wasm",
+        "name": "Microsoft.AspNetCore.SignalR.Protocols.Json.afn95qel7x.wasm",
+        "hash": "sha256-1st08JX4Bx9TsCNk295PzXN8ZW/QzHjX4fx86mOebfY=",
         "cache": "force-cache"
       },
       {
@@ -146,6 +164,12 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
         "virtualPath": "Microsoft.Extensions.Diagnostics.Abstractions.wasm",
         "name": "Microsoft.Extensions.Diagnostics.Abstractions.2q0g56oies.wasm",
         "hash": "sha256-VptcNKm4/Sy8NL7ogrnyhFf1TNg+HWfbq4hilFY9CTQ=",
+        "cache": "force-cache"
+      },
+      {
+        "virtualPath": "Microsoft.Extensions.Features.wasm",
+        "name": "Microsoft.Extensions.Features.90gt3oo6py.wasm",
+        "hash": "sha256-STmxTL2ef1Z0flwKyJMflrYgB25tco8sqcRQWErZdHE=",
         "cache": "force-cache"
       },
       {
@@ -212,6 +236,12 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
         "virtualPath": "Microsoft.JSInterop.WebAssembly.wasm",
         "name": "Microsoft.JSInterop.WebAssembly.i0zvedq8j9.wasm",
         "hash": "sha256-/nrHNIHcvQjBG2qjCnK0Ca0SwscSDiZcMiT+2Q6H9W0=",
+        "cache": "force-cache"
+      },
+      {
+        "virtualPath": "Newtonsoft.Json.wasm",
+        "name": "Newtonsoft.Json.jcjjiqe038.wasm",
+        "hash": "sha256-s8KVuknfxWl1cuDvQM/OnpBfnpM1rxzvzq21S1cF36U=",
         "cache": "force-cache"
       },
       {
@@ -1242,27 +1272,27 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "Mywasmapp.wasm",
-        "name": "Mywasmapp.euz16apew5.wasm",
-        "hash": "sha256-tqnpczACnPtqzmn/AL/e/EgThbEHAirIU0Clbxhm5oE=",
+        "name": "Mywasmapp.0xdf7b93ar.wasm",
+        "hash": "sha256-NLf7P6sTspp7jvOs5tthPnUfmsBsie/asZFTVvVj0L8=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "Mywasmapp.pdb",
-        "name": "Mywasmapp.3kqs4dbsje.pdb",
-        "hash": "sha256-c/2EEJ+rgW1itvZni+q3TSDv0zMmV+Nhl9GpbkP/BG0=",
+        "name": "Mywasmapp.0qib2ethvi.pdb",
+        "hash": "sha256-iH3eFUbjJMQmezg8YvFXkIGtclzFo1iWr/ScMy4gnGc=",
         "cache": "force-cache"
       }
     ],
     "libraryInitializers": [
       {
-        "name": "_framework/Microsoft.DotNet.HotReload.WebAssembly.Browser.n8xbbjm4qx.lib.module.js"
+        "name": "_framework/Microsoft.DotNet.HotReload.WebAssembly.Browser.h26gum5wpt.lib.module.js"
       }
     ],
     "modulesAfterConfigLoaded": [
       {
-        "name": "../_framework/Microsoft.DotNet.HotReload.WebAssembly.Browser.n8xbbjm4qx.lib.module.js"
+        "name": "../_framework/Microsoft.DotNet.HotReload.WebAssembly.Browser.h26gum5wpt.lib.module.js"
       }
     ]
   },
