@@ -45,19 +45,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RICHARDSON\\.nuget\\packages\\": {}
+    "/Users/yoletech/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\RICHARDSON\\PROJECTS\\FullStackDev\\Myblazor\\Myblazor.csproj",
+      "projectUniqueName": "/Users/yoletech/Desktop/FullStackDev/Myblazor/Myblazor.csproj",
       "projectName": "Myblazor",
-      "projectPath": "c:\\Users\\RICHARDSON\\PROJECTS\\FullStackDev\\Myblazor\\Myblazor.csproj",
-      "packagesPath": "C:\\Users\\RICHARDSON\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\RICHARDSON\\PROJECTS\\FullStackDev\\Myblazor\\obj\\",
+      "projectPath": "/Users/yoletech/Desktop/FullStackDev/Myblazor/Myblazor.csproj",
+      "packagesPath": "/Users/yoletech/.nuget/packages/",
+      "outputPath": "/Users/yoletech/Desktop/FullStackDev/Myblazor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RICHARDSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/yoletech/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -115,7 +115,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
