@@ -1339,9 +1339,6 @@ C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_f
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\netstandard.f948f8b5mo.wasm
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\System.Private.CoreLib.7henw1oe7e.wasm
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Microsoft.DotNet.HotReload.WebAssembly.Browser.oqr95q2tlo.wasm
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Mywasmapp.0xdf7b93ar.wasm
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Mywasmapp.0qib2ethvi.pdb
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\dotnet.uzzv59be7x.js
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\blazor.webassembly.w3qd1tpl0e.js.gz
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wtuaf1iwft.wasm.gz
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.lzv87xd451.wasm.gz
@@ -1555,9 +1552,6 @@ C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_f
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Microsoft.DotNet.HotReload.WebAssembly.Browser.oqr95q2tlo.wasm.gz
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Mywasmapp.0xdf7b93ar.wasm.gz
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Mywasmapp.0qib2ethvi.pdb.gz
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\dotnet.uzzv59be7x.js.gz
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\Mywasmapp.staticwebassets.runtime.json
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\Mywasmapp.staticwebassets.endpoints.json
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\Mywasmapp.dll
@@ -2264,10 +2258,6 @@ C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\o8u1fcw0hg-{0}-tptq2av103-tptq2av103.gz
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\2nzn08wovn-{0}-lfu7j35m59-lfu7j35m59.gz
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\rkt524htxw-{0}-oqr95q2tlo-oqr95q2tlo.gz
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\o3bkfgqm3e-{0}-0xdf7b93ar-0xdf7b93ar.gz
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\clh1vtikhe-{0}-0qib2ethvi-0qib2ethvi.gz
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\chqs5t9564-{0}-uzzv59be7x-uzzv59be7x.gz
-C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\dkxtd4lgvd-{0}-hkaptnnweh-hkaptnnweh.gz
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\staticwebassets.development.json
@@ -2278,3 +2268,13 @@ C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\Mywasmapp.
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\refint\Mywasmapp.dll
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\Mywasmapp.pdb
 C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\ref\Mywasmapp.dll
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Mywasmapp.ugs8cvlexf.wasm
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Mywasmapp.jimh82y41d.pdb
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\dotnet.4tq0f30d6x.js
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Mywasmapp.ugs8cvlexf.wasm.gz
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\Mywasmapp.jimh82y41d.pdb.gz
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\bin\Debug\net10.0\wwwroot\_framework\dotnet.4tq0f30d6x.js.gz
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\o3bkfgqm3e-{0}-ugs8cvlexf-ugs8cvlexf.gz
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\clh1vtikhe-{0}-jimh82y41d-jimh82y41d.gz
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\chqs5t9564-{0}-4tq0f30d6x-4tq0f30d6x.gz
+C:\Users\RICHARDSON\PROJECTS\FullStackDev\Mywasmapp\obj\Debug\net10.0\compressed\dkxtd4lgvd-{0}-w1d9udl9ka-w1d9udl9ka.gz

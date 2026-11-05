@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "Mywasmapp",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-gGS0x/EX5s8FLyqIomasLUa7QAjwKrUFUVSxN7C8vK0=",
+    "hash": "sha256-Mvd4JMQ5us7ncfwqwSTby0xR+hY8qFinRzsQfVviiHA=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.bjoj0wmylw.js"
@@ -1272,16 +1272,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "Mywasmapp.wasm",
-        "name": "Mywasmapp.0xdf7b93ar.wasm",
-        "hash": "sha256-NLf7P6sTspp7jvOs5tthPnUfmsBsie/asZFTVvVj0L8=",
+        "name": "Mywasmapp.ugs8cvlexf.wasm",
+        "hash": "sha256-4oWr4QkC2I+yV4Ozei3D0yqVmHapunA8sgqcU9cEBro=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "Mywasmapp.pdb",
-        "name": "Mywasmapp.0qib2ethvi.pdb",
-        "hash": "sha256-iH3eFUbjJMQmezg8YvFXkIGtclzFo1iWr/ScMy4gnGc=",
+        "name": "Mywasmapp.jimh82y41d.pdb",
+        "hash": "sha256-O/wMbZbIRlYpgEmXZaPzy4QcF2BjdR+OJYpxReEbz78=",
         "cache": "force-cache"
       }
     ],
